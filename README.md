@@ -35,7 +35,7 @@ Provides competitive market insights through interactive visualizations, includi
 - Homes Sold by ZIP Code
 - Competitive Office Analysis
 
-**[View Dashboard](https://public.tableau.com/shared/337FSQTRT?:display_count=n&:origin=viz_share_link)**
+**[View Dashboard](https://public.tableau.com/views/IDX_Competitive_Analysis/TopListingAgents?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
